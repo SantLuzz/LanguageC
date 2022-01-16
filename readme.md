@@ -1,3 +1,3 @@
-#Arquivos gerados durante meu estudo em C
+# Arquivos gerados durante meu estudo em C
 #
 #
